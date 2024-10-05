@@ -9,7 +9,7 @@ require (
 	github.com/AsynqLab/extra v0.1.0
 	github.com/MakeNowJust/heredoc/v2 v2.0.1
 	github.com/fatih/color v1.17.0
-	github.com/gdamore/tcell/v2 v2.5.1
+	github.com/gdamore/tcell/v2 v2.7.4
 	github.com/google/go-cmp v0.6.0
 	github.com/mattn/go-runewidth v0.0.16
 	github.com/mitchellh/go-homedir v1.1.0
@@ -41,7 +41,7 @@ require (
 	github.com/prometheus/client_model v0.6.1 // indirect
 	github.com/prometheus/common v0.55.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
-	github.com/rivo/uniseg v0.2.0 // indirect
+	github.com/rivo/uniseg v0.4.3 // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/sagikazarmark/locafero v0.4.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
@@ -52,7 +52,7 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.9.0 // indirect
 	golang.org/x/sys v0.25.0 // indirect
-	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf // indirect
+	golang.org/x/term v0.17.0 // indirect
 	golang.org/x/text v0.16.0 // indirect
 	golang.org/x/time v0.6.0 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
